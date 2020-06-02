@@ -1,18 +1,7 @@
 # Movie Review Analysis
 
-**Goal: The goal of this project is to demonstrate knowledge of the following Java programming concepts:**
-
-1.	Input/Output to and from the terminal. 
-2.	Storing data in a file and reading data from a file.
-3.	Creating object-oriented classes and methods to handle data.
-4.	Using data structures to store data in main memory (e.g. HashSet, ArrayList).
-5.	Working with character strings.
-6.	Using Javadoc comments and generating and html documentation of the program.
-7.	Using Java Exceptions to improve the error handling capabilities of the program.
-8.  Using JUnit to test Java code
-
 # Description:
-A program to classify a set of movie reviews as positive or negative based on their sentiment. This process is known as Sentiment Analysis, and there are multiple approaches to analyze the data and estimate the sentiment. More information about sentiment analysis can be found on Wikipedia and other sources.
+A program to classify a set of reviews as positive or negative based on their sentiment. This process is known as Sentiment Analysis, and there are multiple approaches to analyze the data and estimate the sentiment. More information about sentiment analysis can be found on Wikipedia and other sources.
 https://en.wikipedia.org/wiki/Sentiment_analysis 
 
 In this project, a Java program will classify a review as positive or negative by counting the number of positive and negative words that appear in that review.  
